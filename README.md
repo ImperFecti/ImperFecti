@@ -1,6 +1,6 @@
 ### Muhammad Adil Saputra
-#### Mahasiswa di Universitas Bina Sarana Informatika | Web Developer | Backend Developer
-Mahasiswa Program Studi Sarjana Teknologi Informasi di Universitas Bina Sarana Informatika (UBSI), fokus pada pengembangan perangkat lunak dan teknologi informasi. Memiliki pengalaman dan pemahaman mendalam tentang berbagai bahasa pemrograman, pengembangan perangkat lunak serta manajemen basis data. Mahir dalam penggunaan perangkat lunak dan platform terkait teknologi informasi, termasuk pembuatan aplikasi web dan mobile, serta sistem informasi berbasis web.
+#### Student at Bina Sarana Informatika University | Web Developer | Backend Developer
+Bachelor of Information Technology student at Bina Sarana Informatika University (UBSI), focusing on software development and information technology. Have experience and in-depth understanding of various programming languages, software development and database management. Proficient in the use of information technology-related software and platforms, including the creation of web and mobile applications, as well as web-based information systems.
 
 Skills: CodeIgniter4 / PHP / HTML / CSS
 
