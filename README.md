@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adil Saputra</h1>
 <h3 align="center">Focusing on software development and information technology. Have experience and in-depth understanding of various programming languages, software development and database management. Proficient in the use of information technology-related software and platforms, including the creation of web and mobile applications, as well as web-based information systems.</h3>
-<h3 align="center">Known as an individual who has good cooperation, discipline, effective time management and strong critical thinking and problem-solving skills strong critical thinking and problem-solving skills.</h3>
+<h3 align="center">Known as an individual who has good cooperation, discipline, effective time management and strong critical thinking and problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imperfecti&label=Profile%20views&color=0e75b6&style=flat" alt="imperfecti" /> </p>
 
